@@ -1,0 +1,5 @@
+spring.security.oauth2.client.registration.google.client-id=404664207372-6s46qmte6hmp39s73le0790v9fbv6d0q.apps.googleusercontent.com
+
+spring.security.oauth2.client.registration.google.client-secret=MFnMScXDSmwbwVakjsnHDFOs
+
+spring.security.oauth2.client.registration.google.scope=profile,email
